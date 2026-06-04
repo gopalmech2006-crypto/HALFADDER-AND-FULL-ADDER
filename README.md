@@ -1,10 +1,10 @@
-# EXPERIMENT NO. 3
+# EXPERIMENT NO. 2
 
 # DESIGN AND VERIFICATION OF COMBINATIONAL CIRCUIT: HALF AND FULL ADDERS, HALF AND FULL SUBTRACTORS
 
 ### Submitted By
 
-**R.K. Vageesh Ragav**
+**GOPAL B**
 B.E. Electronics and Communication Engineering (ECE)
 Saveetha Engineering College, Chennai
 
@@ -243,11 +243,11 @@ Thus, the Half Adder, Full Adder, Half Subtractor, and Full Subtractor circuits 
 
 ## AUTHOR DETAILS
 
-**Name:** R.K. Vageesh Ragav
+**Name:** GOPAL B
 **Department:** Electronics and Communication Engineering (ECE)
 **College:** Saveetha Engineering College
 **Course Code:** EC1801 – Digital Logic Circuits Design Laboratory
-**Experiment No.:** 3
+**Experiment No.:** 2
 
 ---
 
